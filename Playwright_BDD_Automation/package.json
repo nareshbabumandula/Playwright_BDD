@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test":"cucumber-js test"
+    "test": "cucumber-js test"
   },
   "keywords": [],
   "author": "",
@@ -11,7 +11,7 @@
   "type": "commonjs",
   "description": "",
   "devDependencies": {
-    "@playwright/test": "^1.49.1",
+    "@playwright/test": "^1.50.1",
     "@types/node": "^22.10.7"
   },
   "dependencies": {
