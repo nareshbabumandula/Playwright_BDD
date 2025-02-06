@@ -9,7 +9,8 @@
       "dryRun": false,
       "require": [
         "tests/steps/*.js", "tests/support/*.js"
-      ]      
+      ],
+      "tags": "@smoke"      
     }
   }
   
